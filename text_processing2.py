@@ -90,3 +90,4 @@ def to_camel_case(underscore_str):
     if len(camelcase_str):
         camelcase_str = camelcase_str[0].lower() + camelcase_str[1:]
     return camelcase_str
+
